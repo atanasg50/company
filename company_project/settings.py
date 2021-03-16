@@ -168,3 +168,5 @@ ACCOUNT_UNIQUE_EMAIL = True
 # django-crispy-forms
 
 CRISPY_TEMPLATE_PACK = 'bootstrap'
+
+DEFAULT_FROM_EMAIL = 'admin@company.com'
